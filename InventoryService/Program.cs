@@ -6,6 +6,10 @@ namespace InventoryService
     {
         static void Main(string[] args)
         {
+            var googleSheetsClient = new GoogleSheetsClient();
+
+
+
             Console.WriteLine("Hello World!");
         }
     }

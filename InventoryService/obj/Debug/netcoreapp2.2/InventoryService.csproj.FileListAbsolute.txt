@@ -1,0 +1,7 @@
+C:\Software\InventoryService\InventoryService\InventoryService\bin\Debug\netcoreapp2.2\InventoryService.deps.json
+C:\Software\InventoryService\InventoryService\InventoryService\bin\Debug\netcoreapp2.2\InventoryService.runtimeconfig.json
+C:\Software\InventoryService\InventoryService\InventoryService\bin\Debug\netcoreapp2.2\InventoryService.runtimeconfig.dev.json
+C:\Software\InventoryService\InventoryService\InventoryService\bin\Debug\netcoreapp2.2\InventoryService.dll
+C:\Software\InventoryService\InventoryService\InventoryService\obj\Debug\netcoreapp2.2\InventoryService.csprojAssemblyReference.cache
+C:\Software\InventoryService\InventoryService\InventoryService\obj\Debug\netcoreapp2.2\InventoryService.AssemblyInfoInputs.cache
+C:\Software\InventoryService\InventoryService\InventoryService\obj\Debug\netcoreapp2.2\InventoryService.AssemblyInfo.cs
